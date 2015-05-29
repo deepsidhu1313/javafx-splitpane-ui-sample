@@ -13,3 +13,5 @@ Things Can be Improved
 * Reformatting Code Support
 
 If you think this code helped you, all you have to do is in return is be nice and help others in your life :) (not via coding only) :P
+
+Pull requests and improvements will always be welcomed.
