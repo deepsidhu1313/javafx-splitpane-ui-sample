@@ -1,7 +1,7 @@
 # javafx-splitpane-ui-sample
 Sample Code For IDE like applications in JavaFX
 
-This code is open source use it for non-commercial purpose only.
+** Use it for non-commercial purpose only. **
 
 Depends On 
 * ControlFX
